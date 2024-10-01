@@ -7,5 +7,5 @@ compatibility_date = "2023-05-26"
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-PROXYIP = "1.2.3."
-UUID = "1b6c174"
+PROXYIP = "149.104.35.66:9888"
+UUID = "e66c2815-f1df-4be4-a2a9-c5a20d3cf711"
